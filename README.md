@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Wtf-Is-This
+- 🔥 My occupation ? I break keyboards and disappoint my parents
 - 👀 I’m interested in Game Hacking
 - 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on C++ / C# projects 
 - 💬 Ask me about anything lol
 - 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng) or Discord [ Wtf Is This#3573 ]
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am probably retarded
+- 🎓 OS: Windows 98 and sometimes Ubuntu :/
