@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wtf-Is-This-x1337
+- 👋 Hi, I’m @Wtf-Is-This
 - 👀 I’m interested in Game Hacking
 - 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on C++ / C# projects 
