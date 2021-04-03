@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Wtf-Is-This-x1337
+- 👀 I’m interested in Game Hacking
+- 🌱 I’m currently learning C++ 
+- 💞️ I’m looking to collaborate on C++ / C# projects 
+- 💬 Ask me about anything lol
+- 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng) or Discord [ Wtf Is This#3573 ]
+- 😄 Pronouns: He/Him
