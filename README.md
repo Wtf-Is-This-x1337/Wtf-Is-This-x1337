@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning: C++ && C#
 - 💞️ I’m looking to collaborate on: C++ / C# projects 
 - 💬 Ask me about: anything lol
-- 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng) or Discord [ Wtf Is This#3573 ]
+- 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng) or Discord [ WtfIsThisツ#6019 ]
 - ⚡ Fun fact: I am probably retarded
 - 🎓 OS: Windows 98 and sometimes Ubuntu :/
