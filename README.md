@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: C++ && C#
 - 💞️ I’m looking to collaborate on: C++ / C# projects ( currently working on [Metaphor Antivirus](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus) )
 - 💬 Ask me about: anything lol
-- 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng) or Discord [ WtfIsThisツ#6019 ]
+- 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng) or Discord [ WtfIsThisツ#0001 ]
 - 🌩️ Tryhackme.com: [Profile](https://tryhackme.com/p/WtfIsThis)   
 - ⚡ Fun fact: I am probably retarded
 - 🎓 OS: Windows 98 and sometimes Ubuntu :/
