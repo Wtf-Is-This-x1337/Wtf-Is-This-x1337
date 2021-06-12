@@ -8,11 +8,11 @@
 - 🎓 OS: Windows 98 and sometimes Ubuntu :/
 
 ### How to reach me: 
-[<img align="left" alt="WtfIsThis | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="WtfIsThis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="WtfIsThis | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][tryhackme]
-[<img align="left" alt="WtfIsThis | HackTheBox" width="22px" src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
-[<img align="left" alt="WtfIsThis | Dsicord" width="22px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]
+[<img align="left" alt="WtfIsThis | Website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="WtfIsThis | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="WtfIsThis | TryHackMe" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][tryhackme]
+[<img align="left" alt="WtfIsThis | HackTheBox" width="25px" src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
+[<img align="left" alt="WtfIsThis | Dsicord" width="25px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]
 
 [website]: https://WtfIsThis-portfolio.com
 [youtube]: https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng
