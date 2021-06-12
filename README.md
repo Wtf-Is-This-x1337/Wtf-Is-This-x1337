@@ -16,7 +16,7 @@
 <br/>
 ### Github Stats:
 [![WtfIsThis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wtf-Is-This-x1337&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wtf-Is-This-x1337&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://WtfIsThis-portfolio.com
 [youtube]: https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng
