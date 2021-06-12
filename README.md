@@ -11,7 +11,7 @@
 [<img align="left" alt="WtfIsThis | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="WtfIsThis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="WtfIsThis | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][tryhackme]
-[<img align="left" alt="WtfIsThis | HackTheBox" width="22px" src="<script src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
+[<img align="left" alt="WtfIsThis | HackTheBox" width="22px" src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
 [<img align="left" alt="WtfIsThis | Dsicord" width="22px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]
 
 [website]: https://WtfIsThis-portfolio.com
