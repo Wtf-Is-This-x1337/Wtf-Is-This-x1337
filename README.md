@@ -8,11 +8,11 @@
 - 🎓 OS: Windows 98 and sometimes Ubuntu :/
 
 ### How to reach me: 
-[<img align="left" alt="WtfIsThis | Website" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="WtfIsThis | YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="WtfIsThis | TryHackMe" width="28px" src="https://api.iconify.design/simple-icons:tryhackme.svg" />][tryhackme]
-[<img align="left" alt="WtfIsThis | HackTheBox" width="28px" src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
-[<img align="left" alt="WtfIsThis | Dsicord" width="28px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]                        
+[<img align="left" alt="WtfIsThis | Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="WtfIsThis | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="WtfIsThis | TryHackMe" width="32px" src="https://api.iconify.design/simple-icons:tryhackme.svg" />][tryhackme]
+[<img align="left" alt="WtfIsThis | HackTheBox" width="32px" src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
+[<img align="left" alt="WtfIsThis | Dsicord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]
 <br/>
 ### Github Stats:
 [![WtfIsThis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
