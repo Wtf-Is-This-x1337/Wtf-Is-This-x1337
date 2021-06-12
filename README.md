@@ -13,3 +13,9 @@
 [<img align="left" alt="WtfIsThis | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][tryhackme]
 [<img align="left" alt="WtfIsThis | HackTheBox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][hackthebox]
 [<img align="left" alt="WtfIsThis | Dsicord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][discord]
+
+[website]: https://WtfIsThis-portfolio.com
+[youtube]: https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng
+[tryhackme]: https://tryhackme.com/p/WtfIsThis
+[hackthebox]: https://app.hackthebox.eu/profile/620974
+[discord]: http://discord.com
