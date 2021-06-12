@@ -15,7 +15,7 @@
 [<img align="left" alt="WtfIsThis | Dsicord" width="25px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]                        
 <br/>
 ### Github Stats:
-[![WtfIsThis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337)](https://github.com/anuraghazra/github-readme-stats)
+[![WtfIsThis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://WtfIsThis-portfolio.com
 [youtube]: https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng
