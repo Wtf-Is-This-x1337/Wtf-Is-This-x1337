@@ -18,7 +18,7 @@
 [![WtfIsThis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wtf-Is-This-x1337&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://WtfIsThis-portfolio.com
+[website]: https://wtfisthis-portfolio.herokuapp.com/
 [youtube]: https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng
 [tryhackme]: https://tryhackme.com/p/WtfIsThis
 [hackthebox]: https://app.hackthebox.eu/profile/620974
