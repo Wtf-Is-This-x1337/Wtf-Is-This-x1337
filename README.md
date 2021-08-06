@@ -13,7 +13,6 @@
 [<img align="left" alt="WtfIsThis | TryHackMe" width="32px" src="https://api.iconify.design/simple-icons:tryhackme.svg" />][tryhackme]
 [<img align="left" alt="WtfIsThis | HackTheBox" width="32px" src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
 [<img align="left" alt="WtfIsThis | Dsicord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]
-[<img align="left" alt="WtfISThis | Fiverr" width="32px" src="https://image.flaticon.com/icons/png/512/732/732025.png" />][fiverr]
 <br/>
 ### Github Stats:
 [![WtfIsThis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,4 +23,3 @@
 [tryhackme]: https://tryhackme.com/p/WtfIsThis
 [hackthebox]: https://app.hackthebox.eu/profile/620974
 [discord]: http://discord.com
-[fiverr]: https://www.fiverr.com/stopfilterkeys
