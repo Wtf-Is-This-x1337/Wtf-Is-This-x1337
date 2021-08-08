@@ -3,6 +3,7 @@
     Hi, there! I am WtfIsThis <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
   </h2>
 </div>
+### About me
 - 🔥 My occupation ? I break keyboards and disappoint my parents    <br/>
 - 👀 I’m interested in: Game Hacking and PenTesting   <br/>
 - 🌱 I’m currently learning: C++ && C#    <br/>
@@ -17,7 +18,7 @@
 [<img align="left" alt="WtfIsThis | TryHackMe" width="32px" src="https://api.iconify.design/simple-icons:tryhackme.svg" />][tryhackme]
 [<img align="left" alt="WtfIsThis | HackTheBox" width="32px" src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
 [<img align="left" alt="WtfIsThis | Dsicord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]
-<br/>
+<br/><br/>
 ### Github Stats:
 <p align="center">
   <a href="https://github.com/Wtf-Is-This-x1337">
