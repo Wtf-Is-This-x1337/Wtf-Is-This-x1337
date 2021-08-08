@@ -3,15 +3,14 @@
     Hi, there! I am WtfIsThis <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
   </h2>
 </div>
-### 👨🏻‍💻 &nbsp;About Me
-- 🔥 My occupation ? I break keyboards and disappoint my parents
-- 👀 I’m interested in: Game Hacking and PenTesting
-- 🌱 I’m currently learning: C++ && C#
-- 💞️ I’m looking to collaborate on: C++ / C# projects ( currently working on [Metaphor Antivirus](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus) )
-- 💬 Ask me about: anything lol
-- ⚡ Fun fact: I am probably retarded
-- 🎓 OS: Windows 98 and sometimes Ubuntu :/
-
+- 🔥 My occupation ? I break keyboards and disappoint my parents    
+- 👀 I’m interested in: Game Hacking and PenTesting   
+- 🌱 I’m currently learning: C++ && C#    
+- 💞️ I’m looking to collaborate on: C++ / C# projects ( currently working on [Metaphor Antivirus](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus) )   
+- 💬 Ask me about: anything lol   
+- ⚡ Fun fact: I am probably retarded    
+- 🎓 OS: Windows 98 and sometimes Ubuntu :/   
+    
 ### How to reach me: 
 [<img align="left" alt="WtfIsThis | Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="WtfIsThis | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
