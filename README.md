@@ -1,4 +1,9 @@
-### Hi there, I’m @Wtf-Is-This
+<div align="center">
+  <h2> 
+    Hi, there! I am WtfIsThis <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+  </h2>
+</div>
+### 👨🏻‍💻 &nbsp;About Me
 - 🔥 My occupation ? I break keyboards and disappoint my parents
 - 👀 I’m interested in: Game Hacking and PenTesting
 - 🌱 I’m currently learning: C++ && C#
