@@ -19,12 +19,6 @@
 [<img align="left" alt="WtfIsThis | Dsicord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]
 <br/>
 ### Github Stats:
-<br/>
-<div align="center">
-  <h4> 
-    🏃 Happy Coding 🏃 
-  </h4>
-</div>
 <p align="center">
   <a href="https://github.com/Wtf-Is-This-x1337">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=algolia"/>
