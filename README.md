@@ -19,6 +19,7 @@
 [<img align="left" alt="WtfIsThis | Dsicord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg" />][discord]
 <br/>
 ### Github Stats:
+<br/>
 <div align="center">
   <h4> 
     🏃 Happy Coding 🏃 
@@ -31,8 +32,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wtf-Is-This-x1337&layout=compact&theme=dracula"/>
   </a>
 </p>
-[![WtfIsThis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wtf-Is-This-x1337&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://wtfisthis-portfolio.herokuapp.com/
 [youtube]: https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng
