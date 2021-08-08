@@ -27,7 +27,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/Wtf-Is-This-x1337">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=algolia)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wtf-Is-This-x1337&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)"/>
     <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wtf-Is-This-x1337&layout=compact&theme=algolia"/>
   </a>
