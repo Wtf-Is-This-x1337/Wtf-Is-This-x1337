@@ -4,6 +4,8 @@
   </h2>
 </div>
 
+[<img align="center" alt="Banner" src="https://i.imgur.com/kEWvveO.gif">]
+
 ### About me:       
 - 🔥 My occupation ? I break keyboards and disappoint my parents    <br/>
 - 👀 I’m interested in: Game Hacking and PenTesting   <br/>
