@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-<img align="center" alt="Banner" width="100" src="https://i.imgur.com/kEWvveO.gif">
+<img align="center" alt="Banner" width="1000" src="https://i.imgur.com/kEWvveO.gif">
 
 ### About me:       
 - 🔥 My occupation ? I break keyboards and disappoint my parents    <br/>
