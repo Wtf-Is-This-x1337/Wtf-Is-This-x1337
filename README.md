@@ -10,7 +10,7 @@
 - 🔥 My occupation ? I break keyboards and disappoint my parents    <br/>
 - 👀 I’m interested in: Game Hacking and PenTesting   <br/>
 - 🌱 I’m currently learning: C++ && C#    <br/>
-- 💞️ I’m looking to collaborate on: C++ / C# projects ( currently working on [Metaphor Antivirus](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus) )   <br/>
+- 💞️ I’m looking to collaborate on: C++ / C# projects ( currently working on [Akame Crypter](https://github.com/Wtf-Is-This-x1337/Akame) )   <br/>
 - 💬 Ask me about: anything lol   <br/>
 - ⚡ Fun fact: I am probably retarded    <br/>
 - 🎓 OS: Windows 98 and sometimes Ubuntu :/   <br/>
