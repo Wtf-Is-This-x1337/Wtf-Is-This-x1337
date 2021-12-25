@@ -1,10 +1,10 @@
 <div align="center">
   <h2> 
-    Hi, there! I am WtfIsThis <img src="https://github.com/Wtf-Is-This-x1337/Wtf-Is-This-x1337/blob/main/Wtf%20is%20security.png" width="30px">
+    Hi, there! I am WtfIsThis <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
   </h2>
 </div>
 
-<img align="center" alt="Banner" width="1200" src="https://i.imgur.com/kEWvveO.gif">
+<img align="center" alt="Banner" width="1200" src="https://github.com/Wtf-Is-This-x1337/Wtf-Is-This-x1337/blob/main/Wtf%20is%20security.png">
 
 ### About me:       
 - 🔥 My occupation ? I break keyboards and disappoint my parents    <br/>
