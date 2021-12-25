@@ -5,16 +5,6 @@
 </div>
 
 <img align="center" alt="Banner" width="1200" src="https://github.com/Wtf-Is-This-x1337/Wtf-Is-This-x1337/blob/main/What%20the%20fuck.png">
-
-### About me:       
-- 🔥 My occupation ? I break keyboards and disappoint my parents    <br/>
-- 👀 I’m interested in: Game Hacking and PenTesting   <br/>
-- 🌱 I’m currently learning: C++ && C#    <br/>
-- 💞️ I’m looking to collaborate on: C++ / C# projects ( currently working on [Akame Crypter](https://github.com/Wtf-Is-This-x1337/Akame) )   <br/>
-- 💬 Ask me about: anything lol   <br/>
-- ⚡ Fun fact: I am probably retarded    <br/>
-- 🎓 OS: Windows 98 and sometimes Ubuntu :/   <br/>
-    
 ### How to reach me: 
 [<img align="left" alt="WtfIsThis | Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="WtfIsThis | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
