@@ -9,7 +9,7 @@
 ### How to reach me: 
 [<img align="left" alt="WtfIsThis | Website" width="32px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/webpack.svg" />][website]
 [<img align="left" alt="WtfIsThis | YouTube" width="32px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="WtfIsThis | TryHackMe" width="32px" src="https://unpkg.com/browse/@svg-icons/simple-icons@1.42.0/tryhackme.svg"/>][tryhackme]
+[<img align="left" alt="WtfIsThis | TryHackMe" width="32px" src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="/>][tryhackme]
 [<img align="left" alt="WtfIsThis | HackTheBox" width="32px" src="https://api.iconify.design/simple-icons:hackthebox.svg" />][hackthebox]
 <br/><br/>
 ### Github Stats:
