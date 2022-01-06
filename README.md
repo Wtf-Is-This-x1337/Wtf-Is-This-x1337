@@ -7,7 +7,7 @@
 <img align="center" alt="Banner" width="1200" src="https://github.com/Wtf-Is-This-x1337/Wtf-Is-This-x1337/blob/main/WhatTheFuckIsSecurity.png">
 
 ### How to reach me: 
-[<img align="left" alt="WtfIsThis | Website" width="50px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/webpack.svg" />][website]
+[<img align="left" alt="WtfIsThis | Website" width="40px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/webpack.svg" />][website]
 [<img align="left" alt="WtfIsThis | YouTube" width="150px" src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />][youtube]
 [<img align="left" alt="WtfIsThis | TryHackMe" width="170px" src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="/>][tryhackme]
 [<img align="left" alt="WtfIsThis | HackTheBox" width="200px" src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=" />][hackthebox]
