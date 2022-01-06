@@ -11,6 +11,7 @@
 [<img align="left" alt="WtfIsThis | YouTube" width="150px" src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />][youtube]
 [<img align="left" alt="WtfIsThis | TryHackMe" width="170px" src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="/>][tryhackme]
 [<img align="left" alt="WtfIsThis | HackTheBox" width="200px" src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=" />][hackthebox]
+[<img align="left" alt = "WtfIsThis | Hackforums" width = "40px" src = "https://hackforums.net/uploads/avatars/avatar_181208.gif?dateline=1566644109" />][hackforums]
 <br/><br/>
 ### Github Stats:
 <p align="center">
@@ -25,4 +26,4 @@
 [youtube]: https://www.youtube.com/channel/UC_HV32JteVfGzYMtqkpH7Ng
 [tryhackme]: https://tryhackme.com/p/WtfIsThis
 [hackthebox]: https://app.hackthebox.eu/profile/620974
-[discord]: http://discord.com
+[hackforums]: https://hackforums.net/member.php?action=profile&uid=5063966
