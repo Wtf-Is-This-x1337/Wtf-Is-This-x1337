@@ -8,9 +8,9 @@
 
 ### How to reach me: 
 [<img align="left" alt="WtfIsThis | Website" width="50px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/webpack.svg" />][website]
-[<img align="left" alt="WtfIsThis | YouTube" width="50px" src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />][youtube]
-[<img align="left" alt="WtfIsThis | TryHackMe" width="50px" src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="/>][tryhackme]
-[<img align="left" alt="WtfIsThis | HackTheBox" width="50px" src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=" />][hackthebox]
+[<img align="left" alt="WtfIsThis | YouTube" width="100px" src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />][youtube]
+[<img align="left" alt="WtfIsThis | TryHackMe" width="150px" src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="/>][tryhackme]
+[<img align="left" alt="WtfIsThis | HackTheBox" width="200px" src="https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=" />][hackthebox]
 <br/><br/>
 ### Github Stats:
 <p align="center">
